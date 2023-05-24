@@ -5,7 +5,7 @@ namespace INF099
         static void Main(string[] args) {
 			// Comentario novo
             Console.WriteLine("Olá Alunos INF-0991 !!!!");
-			Console.WriteLine("BOA NOITE");
+			Console.WriteLine("BOA TARDE");
         }
     }
 }
