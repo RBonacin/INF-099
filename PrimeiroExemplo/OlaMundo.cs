@@ -6,6 +6,7 @@ namespace INF099
 			// Comentario novo
             Console.WriteLine("Olá Alunos INF-0991 !!!!");
 			Console.WriteLine("BOA TARDE");
+            Console.WriteLine("Alterações com VS Code");
         }
     }
 }
