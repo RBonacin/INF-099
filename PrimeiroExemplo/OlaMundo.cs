@@ -8,6 +8,7 @@ namespace INF099
 			Console.WriteLine("BOA TARDE");
             Console.WriteLine("Alterações com VS Code");
             // C1
+            // C2
         }
     }
 }
